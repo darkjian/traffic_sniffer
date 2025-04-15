@@ -17,5 +17,5 @@
 git clone https://github.com/darkjian/traffic_sniffer && 
 cd traffic_sniffer/ && mkdir sniffing_logs && make
 ```
-### 2. После запуска через 15 секунда выполнится сприт для отправки трафика
+### 2. После запуска через 15 секунд выполнится скрипт для отправки трафика
 ### 3. Логи находся в папке проекта sniffing_logs/
